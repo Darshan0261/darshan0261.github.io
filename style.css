@@ -191,7 +191,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("https://preview.colorlib.com/theme/hiroto/img/home-room/hr-1.jpg") no-repeat center;
+  /* background: url("https://preview.colorlib.com/theme/hiroto/img/home-room/hr-1.jpg") no-repeat center; */
   background: url("./images/121.jpg") no-repeat center;
   height: 100vh;
   color: #fff;
@@ -1080,6 +1080,11 @@ footer span a:hover {
   gap: 20px;
   margin-top: 30px;
   margin-bottom: 20px;
+}
+
+.github {
+  width: 85%;
+  margin: auto;
 }
 
 .git-box img {
