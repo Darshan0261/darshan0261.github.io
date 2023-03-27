@@ -1085,3 +1085,10 @@ footer span a:hover {
 .git-box img {
   width: 100%;
 }
+
+
+#about button {
+  background-color: white;
+  border: none;
+  color: none;
+}
