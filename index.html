@@ -53,8 +53,11 @@
                     < Darshan />
                 </div>
                 <div class="text-3">And I'm a <br> <span class="typing"></span></div>
-                <a id="resume-button-2" class="nav-link resume" href="./images/files/Darshan_Nashikkar_Resume.pdf"
-                    target="_blank" download="Darshan_Nashikkar_Resume">Download CV</a>
+                <button id="resume-button-2" onclick="resume()">
+                    <a id="resume-link-2" class="nav-link resume"
+                        href="./images/files/Darshan_Nashikkar_Resume.pdf"
+                        download="Darshan_Nashikkar_Resume">Download CV</a>
+                    </button>
 
             </div>
         </div>
@@ -77,8 +80,7 @@
                         Hours of coding, 100+ Hours of Soft Skill Development and 300+ Hours of Data Structure &
                         Algorithms. Like to work with Node.js, MongoDB, and JavaScript. Seeking opportunity to use my
                         skills to grow the organization.</p>
-                    <a class="nav-link resume" target="_blank"
-                        href="./images/files/Darshan_Nashikkar_Resume.pdf"
+                    <a class="nav-link resume" target="_blank" href="./images/files/Darshan_Nashikkar_Resume.pdf"
                         download="Darshan_Nashikkar_Resume">Preview CV</a>
                     <a href="#contact">Hire me</a>
 
@@ -420,4 +422,10 @@
 <script>
     new GitHubCalendar(".calendar", "darshan0261");
     new GitHubCalendar(".calendar", "darshan0261", { responsive: true });
+</script>
+
+<script>
+    function resume() {
+        window.open('https://drive.google.com/file/d/1--Z2amnizl4P56DMNgTGuYcDm7vqxYz_/view?usp=share_link', traget="_blank")
+    }
 </script>
