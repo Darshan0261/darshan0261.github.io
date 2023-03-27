@@ -1087,8 +1087,8 @@ footer span a:hover {
 }
 
 
-#about button {
-  background-color: white;
+#home button {
+  background-color: transparent;
   border: none;
   color: none;
 }
