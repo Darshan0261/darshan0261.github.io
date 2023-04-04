@@ -782,7 +782,7 @@ footer span a:hover {
 
 }
 
-@media (max-width: 947px) {
+/* @media (max-width: 947px) {
   .menu-btn {
     display: block;
     z-index: 999;
@@ -850,7 +850,7 @@ footer span a:hover {
   }
 
   .about .about-content .left img {
-    /* border-radius: 0px; */
+    
     height: 90%;
     object-fit: contain;
   }
@@ -865,7 +865,6 @@ footer span a:hover {
   }
 
   .projects .serv-content .card {
-    /* width: calc(50% - 10px); */
     margin-bottom: 20px;
   }
 
@@ -885,7 +884,7 @@ footer span a:hover {
     padding-top: 30px;
     border: none;
   }
-}
+} */
 
 @media (max-width: 690px) {
   .max-width {
