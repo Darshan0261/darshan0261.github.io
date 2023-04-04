@@ -1087,7 +1087,13 @@ footer span a:hover {
 }
 
 
-#about button, .navbar button {
+.navbar button {
+  background-color: transparent;
+  border: none;
+  color: none;
+}
+
+#about button {
   background-color: transparent;
   border: none;
   color: none;
