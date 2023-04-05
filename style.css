@@ -775,7 +775,7 @@ footer span a:hover {
 }
 
 
-/* @media (max-width: 947px) {
+@media (max-width: 947px) {
   .menu-btn {
     display: block;
     z-index: 999;
@@ -843,7 +843,7 @@ footer span a:hover {
   }
 
   .about .about-content .left img {
-   
+    /* border-radius: 0px; */
     height: 90%;
     object-fit: contain;
   }
@@ -981,8 +981,8 @@ footer span a:hover {
     display: none;
   }
 
-  
-} */
+  /* Fgrid */
+}
 
 /* CSS */
 .liveBtn {
