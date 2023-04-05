@@ -868,7 +868,7 @@ footer span a:hover {
     margin-bottom: 35px;
   }
 
-  .github {
+  /* .github {
     display: none;
   }
 
@@ -877,7 +877,7 @@ footer span a:hover {
     display: none;
     padding-top: 30px;
     border: none;
-  }
+  } */
 }
 
 @media (max-width: 690px) {
@@ -976,12 +976,9 @@ footer span a:hover {
   .sourceCodeBtn .liveBtn {
     margin: 0 5px;
   }
-
-  .github {
+  /* .github {
     display: none;
-  }
-
-  /* Fgrid */
+  } */
 }
 
 /* CSS */
