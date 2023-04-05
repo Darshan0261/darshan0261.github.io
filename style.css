@@ -1078,8 +1078,3 @@ footer span a:hover {
   border: none;
   color: none;
 }
-
-#projects {
-  display: block;
-  width: max-content;
-}
