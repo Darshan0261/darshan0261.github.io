@@ -853,14 +853,14 @@ footer span a:hover {
     padding: 5%;
   }
 
-  /* .projects .serv-content {
+  .projects .serv-content {
     grid-template-columns: repeat(2, 1fr);
   }
 
   .projects .serv-content .card {
     
     margin-bottom: 20px;
-  } */
+  }
 
   .skills .skills-content .column,
   .contact .contact-content .column {

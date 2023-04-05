@@ -34,10 +34,10 @@ $(document).ready(function () {
     $("html").css("scrollBehavior", "smooth");
   });
 
-  $(".menu-btn").click(function () {
-    $(".navbar .menu").toggleClass("active");
-    $(".menu-btn i").toggleClass("active");
-  });
+  // $(".menu-btn").click(function () {
+  //   $(".navbar .menu").toggleClass("active");
+  //   $(".menu-btn i").toggleClass("active");
+  // });
 
   // typing text animation script
   var typed = new Typed(".typing", {
