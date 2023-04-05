@@ -767,13 +767,11 @@ footer span a:hover {
   text-decoration: underline;
 }
 
-/* responsive media query start */
 @media (max-width: 1270px) {
   .about .about-content .left {
     width: 40%;
   }
 }
-
 
 @media (max-width: 947px) {
   .menu-btn {
